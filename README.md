@@ -22,8 +22,5 @@ Ao longo dos meus estudos e projetos pessoais, tenho aprendido e utilizado as se
 ## Contato
 
 Fique à vontade para entrar em contato comigo:
-* **E-mail:** [vitorgabriielbarbosanunes@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/vitor-gabriel-barbosa-nunes-826296421/]
-
 * **E-mail:** [Insira seu e-mail aqui](mailto:seu-email@exemplo.com)
 * **LinkedIn:** [Seu Nome ou Link do Perfil](https://www.linkedin.com/in/seu-perfil)
